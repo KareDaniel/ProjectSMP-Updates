@@ -1,0 +1,17 @@
+{
+	trailerCaveDust: false,
+	trailerTorches: false,
+	trailerCampfires: false,
+	trailerBubbles: false,
+	trailerWaterMovement: false,
+	trailerAmbientWater: false,
+	trailerWaves: false,
+	trailerSplashes: false,
+	trailerRipples: false,
+	trailerFlowingFluids: false,
+	trailerCascades: false,
+	trailerPoof: false,
+	trailerBubblePoof: false,
+	trailerSpell: false,
+	trailerLeaves: false,
+}
